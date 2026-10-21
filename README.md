@@ -41,6 +41,4 @@ Seluruh kode dirancang untuk dieksekusi di cloud **Google Colab**. Pustaka stand
 2. Klik menu **File** > pilih **Save a copy in GitHub** (*Simpan salinan di GitHub*).
 3. Pilih repositori: `FamsGit/komputasi-numerik`.
 4. Masukkan branch: `main`.
-5. Di kolom **File path**, isi dengan:
-   ```text
-   01-spl-eliminasi-gauss/eliminasi_gauss.ipynb
+5. Di kolom **File path**, isi dengan file tujuan.
