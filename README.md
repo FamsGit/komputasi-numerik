@@ -19,7 +19,7 @@ Setiap materi dapat langsung dibuka dan dijalankan di Google Colab dengan mengek
 
 | No | Topik / Tugas | Metode | Status | Akses Notebook |
 |:--:|---|---|:--:|:---:|
-| 01 | Sistem Persamaan Linear (SPL) | Eliminasi Gauss | Aktif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FamsGit/komputasi-numerik/blob/main/01-spl-eliminasi-gauss/eliminasi_gauss.ipynb) |
+| 01 | Sistem Persamaan Linear (SPL) | Eliminasi Gauss | Aktif | [![Open In Colab](https://colab.research.google.com/drive/1qC2QhcYpdVB6rJYMenSdQ9dq7TKssghM?usp=sharing) |
 | 02 | [Topik Tugas Berikutnya] | - | Menunggu | - |
 | 03 | [Topik Tugas Berikutnya] | - | Menunggu | - |
 
